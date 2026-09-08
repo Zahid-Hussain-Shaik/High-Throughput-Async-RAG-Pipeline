@@ -4,6 +4,8 @@ A production-oriented, backend-only FastAPI service for ingesting documents, cre
 
 ## Architecture
 
+![Implemented RAG architecture](assets/rag-architecture.png)
+
 ```text
                     ┌──────────────────────┐
                     │      API Client      │
